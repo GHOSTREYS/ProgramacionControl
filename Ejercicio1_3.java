@@ -1,7 +1,3 @@
-/*
- * Menu de ejercicios del 1 al 3 de los Problemas Propuestos sobre Condicionales Compuestos
- */
-
 // Importar librerias
 import javax.swing.JOptionPane;
 
