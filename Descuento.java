@@ -1,8 +1,3 @@
-/*
-* realiza un prgrama que permita que el descuento del monto sea del 10%
-* si el monto es mas grande o igual a 100 si no que sea del 5%
-*/
-
 //importamos librerias
 import javax.swing.JOptionPane;
 
