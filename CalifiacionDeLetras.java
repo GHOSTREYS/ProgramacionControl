@@ -1,11 +1,3 @@
-/*
- * Realiza un programa que permita determinar la calificacion de un alumno
- * asignando una letra, si la calificacion es mayor o igual a 9 la letra es A,
- * si la calificacion es mayor o igual a 8 la letra es B, si la calificacion es
- * igual o mayor a 7 la letra es C, si la calificacion es igual o mayor a 6 la
- * letra es D, si la calificacion es menor a 6 la letra es F, valida que la calificacion
- * no sea negativa, mayor que 10 o menor que 0
- */
 
 //importamos librerias
 import javax.swing.JOptionPane;
@@ -32,8 +24,7 @@ public class CalifiacionDeLetras {
             letra = 'D';
         } else {
             letra = 'F';
-        }
-
+    
         //salida
         JOptionPane.showMessageDialog(null, "Tu calificacion es: " + letra);
     }
